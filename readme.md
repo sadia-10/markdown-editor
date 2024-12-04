@@ -33,12 +33,8 @@ Click the link above to test the editor live! 🚀
 ### Markdown Editor Interface:  
 ✨ *A clean and user-friendly interface to craft your Markdown.*  
 
-**Editor Mode:**  
-![Editor Mode Screenshot](#) _(Add a screenshot link here)_  
-
-**Preview Mode:**  
-![Preview Mode Screenshot](#) _(Add a screenshot link here)_  
-
+**Editor Mode and Preview Mode:**  
+![Editor Mode Screenshot](./project.png)
 ---
 
 ## 🛠️ Installation  
